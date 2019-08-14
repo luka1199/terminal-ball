@@ -1,8 +1,0 @@
-Das Übungsblatt war ziemlich interessant, jedoch war mir nicht ganz klar,
-wie die Beschleunigung die Geschwindigkeit verändert und warum die Funktion
-moveBall() die Länge des Geschwindigkeitsvektors zurückgeben soll.
-
-Aufg. 1: 20min
-Aufg. 2: 2h
-Aufg. 3: 20min
-Aufg. 4: 10min
