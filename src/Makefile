@@ -20,10 +20,10 @@ test: BallTest
 
 
 BallMain: Ball.o BallMain.o
-	$(CXX) -o BallMain BallMain.o Ball.o -lncurses
+	$(CXX) -o BallMain.exe BallMain.o Ball.o -lncurses
 
 BallTest: Ball.o BallTest.o
-	$(CXX) -o BallTest BallTest.o -lgtest -lgtest_main -lpthread
+	$(CXX) -o BallTest.exe BallTest.o -lgtest -lgtest_main -lpthread
 
 
 %.o: %.cpp $(HEADERS)
