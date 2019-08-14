@@ -1,1 +1,1 @@
-# terminal-ball
+# Terminal Ball
