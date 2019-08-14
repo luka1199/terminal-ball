@@ -15,3 +15,11 @@ make compile
 cd src/
 make test
 ```
+
+## Controls
+| Key               | Action     |
+| -------------     | ------------- |
+| Up Arrow Key      | Decrease gravity |
+| Down Arrow Key    | Increase gravity |
+| Left Arrow Key    | Increase ball speed to the left |
+| Right Arrow Key   | Increase ball speed to the right |
