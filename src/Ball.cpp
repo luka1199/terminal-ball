@@ -70,10 +70,10 @@ float moveBall(int code) {
       vector[0] += 1;
       break;
     case KEY_UP:
-      accel -= 0.09;
+      accel -= 1;
       break;
     case KEY_DOWN:
-      accel += 0.09;
+      accel += 1;
       break;
     case 27:
       return -1;
